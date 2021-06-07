@@ -1,0 +1,15 @@
+g
+h
+i
+j
+m
+k
+z
+p
+
+j,k
+m,z
+h,i
+i,j
+g,p
+
